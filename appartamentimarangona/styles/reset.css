@@ -1,0 +1,106 @@
+html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit; 
+	font-style: inherit; 
+	font-size: 100%; 
+	font-family: Arial; 
+} 
+
+body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, blockquote, 
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, tt, var,
+dl, dt, dd, ol, ul, li,
+form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: Arial;
+}
+
+pre, sub, sup {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+/* text */
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	font-size: 14px;
+}
+
+h5 {
+	font-size: 12px;
+}
+
+h6 {
+	font-size: 11px;
+}
+
+.black{color:#2c2c2c;}
+.green{color:#a0b956;}
+.blue{color:#3e5f7e;}
+.red{color:#c21111;}
+.gray{color: #8d8d8d;}
+.brown{color: #9c7158;}
+.orange{color: #ec7c48;}
+
+.link_brown
+{color:#6e6756;text-decoration:none;}
+.link_brown:hover
+{color:#a0b956;text-decoration:none;}
